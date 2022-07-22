@@ -4,7 +4,7 @@ const Main = () => {
     return (
         <div className='main'>
             <div className="img-container">
-                <img src="../../public/Scarecrow.png" alt="" />
+                <img src="../src/assets/Scarecrow.png" alt="name" />
             </div>
             <div className="details">
                 <div className="first">
