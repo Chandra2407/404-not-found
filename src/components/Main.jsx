@@ -1,10 +1,11 @@
 import React from 'react'
+import img from '../assets/Scarecrow.png'
 
 const Main = () => {
     return (
         <div className='main'>
             <div className="img-container">
-                <img src="../../src/assets/Scarecrow.png" alt="name" />
+                <img src={img}alt="name" />
             </div>
             <div className="details">
                 <div className="first">
